@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DictatorGPT</string>
+    <string name="title_home">Home</string>
+    <string name="title_chat">Chat</string>
+    <string name="title_pics">Memes</string>
+    <string name="type_message">Chat with your dictator…</string>
+    <string name="img_1">IMG 1</string>
+    <string name="img_2">IMG 2</string>
+</resources>
